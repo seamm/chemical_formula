@@ -21,6 +21,7 @@ dependencies:
   - pygments
 
   # Pip-only installs
+  - pip:
     # Documentation
     - rinohtype
     - sphinx-rtd-theme
